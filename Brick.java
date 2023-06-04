@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author ridham vyas
+ * @author rhythm
  */
 public class Brick {
     public static void main(String[] args) {
