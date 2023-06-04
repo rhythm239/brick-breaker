@@ -6,7 +6,7 @@ import java.awt.Graphics2D;
 
 /**
  *
- * @author chinm
+ * @author rhythm
  */
 public class MapGenerator {
      public int map[][];
